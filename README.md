@@ -1,4 +1,4 @@
-# Support Ticket System
+# Centralized-Ticket-Tool-
 
 A simple and beginner-friendly support ticket management system built with React (frontend) and Node.js/Express (backend). This project automatically assigns support tickets to the appropriate team based on the issue type and provides instant automated responses.
 
