@@ -93,7 +93,7 @@ Before you begin, ensure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ticket-system.git
+git clone https://github.com/ArlieRohan/Centralized-Ticket-Tool-.git
 cd ticket-system
 ```
 
